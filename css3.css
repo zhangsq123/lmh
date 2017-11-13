@@ -1,0 +1,257 @@
+*{padding: 0;margin: 0;}
+li{list-style: none;}
+a{text-decoration: none;color: black}
+body{font:12px "宋体";}
+img{border: none;vertical-align: middle;}
+.clearfix:after{content: "\200b";display: block;height: 0;clear: both;}
+
+header{width: 1000px; margin: 0 auto;}
+.top{background-color: #0aa1ce;height: 27px;line-height: 27px;color: #fff; position:relative}
+.zb h3{font:12px "宋体";padding: 5px 60px 0 5px;float: left;color: #fff;}
+.zb p{float: left;}
+.zb img{ position:absolute; margin-left:-17px; margin-top:8px}
+.zb input{width: 124px;height: 15px;float: left;margin-top: 4px;}
+.zb span{padding-left: 80px;float:left;}
+.top ul{float: right;padding: 0 5px;}
+.top li{display: inline-block;}
+.top li a{color: #FFFFFF;}
+
+/*导航*/
+.c-vv{width: 1000px;height: 37px;background:url(images/1.daohang.jpg) no-repeat;}
+.c-vv h3{font: 14px "宋体";line-height: 37px;padding:0 40px;float: left;color: #FFFFFF;}
+.c-vv ul{float: right;padding-right: 60px;}
+.c-vv ul li{line-height: 37px;padding: 0 5px;display: inline-block;}
+.c-vv li a{font-size: 14px;color: #FFFFFF;}
+
+/*left*/
+.all{width: 1000px;margin: 10px auto;}
+.cBOX{width: 239px;height: 350px;border: 1px solid #c8c8c8;background-color: #f9fbfa;float: left;}
+.cBOX p{font: 14px "宋体";color: #1d953f;font-weight: bold;background: url(images/3.lvsebeijing.jpg);height:41px ;line-height: 41px;padding-left: 15px;}
+.ss{margin:20px 10px;}
+.lm{margin-bottom: 15px;}
+ .red a{color: #cc0303;}
+ .all li{background: url(images/3.hongbenzhanhengtiao.jpg.jpg) no-repeat;margin: 10px;height: 28px ;line-height: 28px;}
+ .all li a{font:12px "宋体";padding: 17px;}
+ 
+ /*right*/
+.c-news{float: right;width:733px ;background: #f9fbfa;border: 1px solid #C8C8C8;}
+.shang h3{font-size: 12px;background: url(images/3.lvsebeijing.jpg)repeat-x;height: 41px;line-height: 41px;font-weight: normal;}
+.shang h3 img{padding: 0 10px;}
+.c-tittle{padding: 30px;}
+.c-tittle img{padding-left: 136px;}
+.c-tittle h4{display: block;text-align: center;padding: 15px 0;font-weight: normal;}
+.c-tittle em{color: blue;font-style: normal;}
+.c-tittle p{font-size: 14px;line-height: 1.8;}
+.c-tittle span{float: right;padding: 15px 0;}
+.pic3 {padding: 80px 0 20px 0;}
+.bx p{background: url(images/3fanhui.jpg) no-repeat;margin-left: 232px;margin-top: 20px;}
+.pic3 .zone {padding-left: 100px;}
+.bx strong img{padding-left: 5px;}
+.bx strong a{color: #fff;font-weight:normal;padding-left:92px;}
+.bx a{padding-left: 40px;}
+
+
+
+
+.footer{ margin:0 auto;background:url(images/1.footer.jpg) repeat-x;width: 1000px;height: 120px;padding-top: 20px;}
+.footer p{float: left;padding-left: 200px;text-align: center;line-height: 2;width: 500px;color: #fff;}
+.footer img{float: left;display: block;margin-top: -40px;}
+
+/*公共样式*/
+*{padding: 0;margin: 0;}
+body{font: 12px /1.5 "宋体";color: #000;width: 1000px;margin: 0 auto;}
+a{text-decoration: none; color: #000000;}
+li{list-style: none;}
+img{border: none;vertical-align: middle;}
+.clearfix:after{content: "\200b";display: block;height: 0;clear: both;}
+.clearfix:{*zoom: 1;}
+
+/*头部*/
+.header{width: 1000px; margin: 0 auto;}
+.top{background-color: #0aa1ce;height: 27px;line-height: 27px;color: #fff; position:relative}
+.zb h3{font:12px "宋体";padding: 5px 60px 0 5px;float: left;color: #fff;}
+.zb p{float: left;}
+.zb img{ position:absolute; margin-left:-17px; margin-top:8px}
+.zb input{width: 124px;height: 15px;float: left;margin-top: 4px;}
+.zb span{padding-left: 80px;float:left;}
+.top ul{float: right;padding: 0 5px;}
+.top li{display: inline-block;}
+.top li a{color: #FFFFFF;}
+
+/*导航*/
+nav{width: 1000px;height: 37px;}
+.vv{background:url(images/1.daohang.jpg) no-repeat;}
+nav h3{font: 14px "宋体";line-height: 37px;padding:0 40px;float: left;color: #FFFFFF;}
+nav ul{float: right;padding-right: 60px;}
+nav ul li{line-height: 37px;padding: 0 5px;display: inline-block;}
+nav li a{font-size: 14px;color: #FFFFFF;}
+/*滚动条*/
+.roll{background: #1970bd;height: 34px;padding: 3px 5px 0 5px;border-top:1px solid #1a6bbc;}
+.roll img{width: 85px;height: 17px;padding: 7px 0 0 20px;float: left;border-radius:5px 0 0 5px;background: #FFFFFF;padding-bottom: 6px;padding-right: 4px;}
+.Gnews{border-radius:0 5px 5px 0;background-color: #FFFFFF;width: 880px;height: 30px;overflow:hidden;position: relative;margin-left: 100px;}
+.Gnews li{float:left;display: inline-block;right: 0;}
+.Gnews ul{position: absolute;width: 9999px;}
+.Gnews li a{color: #1A6BBC;line-height: 34px;padding-left: 10px;}
+
+/*正文*/
+/*新闻*/
+.news{ width:1000px; height:968px;}
+.tu{ margin:6px 2px; padding-left:10px;}
+.xi{ margin:6px 0;}
+/*左边新闻*/
+.leftnews{ width:268px; float:left;}
+.Ltitle{ width:264px; height:30px; display:block; background:url(images/1.xiaohengtiao.jpg); margin:1px 1px;}
+.Ltitle a{ font:12px "宋体"; color:#FFFFFF; padding-top:8px; padding-right:5px; float:right;}
+/*左上*/
+.Lupside{ width:266px; height:284px; border:1px solid #b5b5b5; margin-top:10px;}
+.tbl{ padding-top:5px;}
+.tbl li{ float:left; margin:5px 10px;}
+.fenlei li{ padding-top:15px;}
+.fenlei li a{ font:14px "宋体"; color:#db6012; float:left; margin:9px 2px;}
+/*左中*/
+.Lmiddle{ width:266px; height:284px; border:1px solid #b5b5b5; margin-top:10px;}
+.gs li{ padding-top:9px;}
+.gs img{ padding-left:8px;}
+.gs a{ font:12px "宋体"; color:#2f2e2e; padding-left:5px;}
+.gs span{ font:12px "宋体"; color:#2f2e2e; padding-top:3px; padding-right:7px; float:right;}
+/*左下*/
+.Lbottom{ width:266px; height:353px; border:1px solid #b5b5b5; margin-top:10px;}
+.tongtu{ margin:10px 15px;}
+.zy li{ padding-top:9px;}
+.zy img{ padding-left:10px;}
+.zy a{ font:12px "宋体"; color:#2f2e2e; padding-left:5px;}
+/*右边新闻*/
+.rightnews{ width:722px; float:right;}
+.Xbanner{ width:722px; margin-top:10px;}
+.Mleftnews{ width:398px; height:830px;}
+/*右中间公共*/
+.Mleftnews{ width:396px; float:left;}
+.Mtitle{ width:392px; height:30px; display:block; background:url(images/1.xiaohengtiao.jpg); margin:1px 1px;}
+.Mtitle a{ font:12px "宋体"; color:#FFFFFF; padding-top:8px; padding-right:5px; float:right;}
+/*中上*/
+.Mupside{ width:394px; height:284px; border:1px solid #b5b5b5; float:left; margin-top:10px;}
+.yw li{ padding-top:9px; padding-left:4px;}
+.yw img{ padding-left:10px;}
+.yw a{ font:12px "宋体"; color:#2f2e2e; padding-left:8px;}
+.yw span{ font:12px "宋体"; color:#2f2e2e; padding-top:3px; padding-right:7px; float:right;}
+/*中中*/
+.Mmiddle{ width:394px; height:284px; border:1px solid #b5b5b5; float:left; margin-top:10px;}
+.jc li{ padding-top:9px; padding-left:4px;}
+.jc img{ padding-left:10px;}
+.jc a{ font:12px "宋体"; color:#2f2e2e; padding-left:8px;}
+.jc span{ font:12px "宋体"; color:#2f2e2e; padding-top:3px; padding-right:7px; float:right;}
+/*中下*/
+.Mbottom{ width:394px; height:240px; border:1px solid #b5b5b5; float:left; margin-top:10px;}
+.zd li{ padding-top:10px; padding-left:4px;}
+.zd img{ padding-left:10px;}
+.zd a{ font:12px "宋体"; color:#2f2e2e; padding-left:8px;}
+.zd span{ font:12px "宋体"; color:#2f2e2e; padding-top:3px; padding-right:7px; float:right;}
+/*右边公共*/
+.Rrightnews{ width:314px; float:right;}
+.Rtitle{ width:310px; height:30px; display:block; background:url(images/1.xiaohengtiao.jpg); margin:1px 1px;}
+.Rtitle a{ font:12px "宋体"; color:#FFFFFF; padding-top:8px; padding-right:5px; float:right;}
+/*右上*/
+.Rupside{ width:312px; height:283px; border:1px solid #b5b5b5; float:right; margin-top:124px;}
+.txz{ width:312px; height:32px; background:#e0e0e0;}
+.txz p{ font:12px "宋体"; color:#343434; padding-top:10px; padding-left:15px;}
+/*右中*/
+.Rmiddle{ width:312px; height:284px; border:1px solid #b5b5b5; float:right; margin-top:10px;}
+.zt li{ padding-top:12px; padding-left:5px;}
+.zt img{ padding-left:10px;}
+.zt a{ font:12px "宋体"; color:#2f2e2e; padding-left:8px;}
+/*右下*/
+.Rbottom{ width:312px; height:240px; border:1px solid #b5b5b5; float:right; margin-top:10px;}
+.spt{ margin:10px 10px; }
+.spxz p{ margin:5px 35px;}
+/*资源库*/
+.zyk{ width:674px; height:290px; border:1px solid #b5b5b5; display:block; float:left;}
+.Ztitle{ width:672px; height:30px; display:block; background:url(images/1.xiaohengtiao.jpg); margin:1px 1px;}
+.Ztitle a{ font:12px "宋体"; color:#FFFFFF; padding-top:8px; padding-right:5px; float:right;}
+.Zbanner{ width:635px; height:80px; margin:12px auto;}
+
+.sanxia{ width:275px; height:142px; float:left; margin-left:30px;}
+.fxkh{ width:180px; height:140px; border:1px solid #b5b5b5; background:#fafafa; float:left;}
+.fxkh img{ width:166px; height:106px; margin:5px 6px;}
+.fxkh p{ padding-left:60px;}
+.gaikuang ul{ width:80px; height:90px;float:right;}
+.gaikuang li{ margin:10px 3px; }
+.gaikuang li a{ font:12px "宋体"; color:#000000; margin-left:10px;}
+
+.shuijing{ width:275px; height:142px; float:right; margin-right:50px;}
+.szszy{ width:180px; height:140px; border:1px solid #b5b5b5; background:#fafafa; float:left;}
+.szszy img{ width:166px; height:106px; margin:5px 6px;}
+.szszy p{ padding-left:60px;}
+.shuizheng ul{ width:80px; height:90px; float:right;}
+.shuizheng li{ margin:10px 3px;}
+.shuizheng li a{ font:12px "宋体"; color:#000000; margin-left:10px;}
+/*实时水情*/
+.shishui{ width:312px; height:290px; border:1px solid #b5b5b5; float:right;}
+.shishui h3{ font:14px "宋体"; padding-left:75px; padding-top:10px;}
+.shishui p{ font:14px "宋体"; padding-left:130px; margin-top:-15px;}
+.shishui img{ margin:3px 2px;}
+/*字*/
+.zi{ width:674px; height:104px; border:1px solid #b5b5b5; margin-top:10px; float:left;}
+.zi img{ margin:20px 15px;} 
+/*服务*/
+.fuwu{ width:312px; height:99px; border:1px solid #b5b5b5; padding-top:500px; float:right; margin-top:10px;}
+.fuwu{ padding-top:5px;}
+.fuwu li{ float:left; margin:3px 15px;}
+/*版权*/
+.leftfooter{text-align: center;float: left;width: 1000px;background: url(images/1.footer.jpg);height: 120px; margin-top:10px;}
+.leftfooter nav li{display: inline-block;font: 12px "宋体";}
+.leftfooter nav{margin-top: 30px;display: inline-block;}
+.p1{ font:12px "宋体"; color:#FFFFFF; text-align: center; display:inline-block; float: left; margin-left: 310px; margin-top:-12px;}
+.p2{ font:12px "宋体"; color:#FFFFFF; text-align: center; display:inline-block; float: left; margin-left: 335px; margin-top:10px;}
+.rightfooter{float: right;margin-top: -40px;margin-right: 240px;}
+
+
+/*二页面*/
+.fl{float: left;}
+.fr{float: right;}
+img{border: none;vertical-align: middle;}
+.B-content{width: 1000px;margin: 10px auto;}
+.B-text{font-size: 12px;font-family: "宋体";font-weight:normal;margin: 0 auto;}
+
+/*左侧*/
+.B-left{float: left;}
+/*公示公告*/
+.B-content{width: 1000px;margin: 5px auto;}
+.B-text{ margin-bottom: 2px;}
+.B-pic1{width:1000px ; margin: 0 auto;}
+.B-gsgg span{ float: right;}
+.B-gsgg{ width:375px;  height: 345px; border:1px solid #ccc;}
+.B-gsgg img{margin: 6px 3px 0 10px;}
+.B-gsgg h2{background:url(images/1.xiaohengtiao.jpg) 375px; height:30px;margin: 1px;}
+.B-gsgg ul{font:14px "宋体"; padding:7px 10px 0 10px; line-height:2em; padding-left:12px;}
+.B-gsgg li {background:url(images/1.hongsanjiao.jpg) no-repeat left center;padding: 0 10px 0 13px;}
+/*banner*/
+.B-xiaobanner img{width: 1000px;padding:5px 0;}
+/*志愿节约*/
+.B-save img{padding: 10px 0 5px 0;}
+/*本站要闻*/
+.B-news{ width:330px; border:1px solid #ccc;}
+.B-news p{background: url(images/1.xiaohengtiao.jpg);height: 30px;margin: 1px;}
+.B-news img{float: left;padding:7px 3px 0 10px}
+.B-news span{font-size: 12px;font-family:"宋体";float: right;padding-top:8px}
+.B-news ul{font:14px "宋体";line-height:2em; padding-left:12px;}
+.B-news li a{background:url(images/1.hongsanjiao.jpg) no-repeat left center; padding: 0 10px 0 13px;}
+/*报道集萃*/
+.B-report{margin-left: 10px; width:333px; border:1px solid #ccc;}
+.B-report p{background: url(images/1.xiaohengtiao.jpg);height: 30px;margin: 1px;}
+.B-report img{float: left;padding:7px 4px 0 10px}
+.B-report a{font-size: 12px;font-family:"宋体";float: right;padding-top:10px}
+.B-report ul{font:14px "宋体";line-height:2em; padding-left:12px;}
+.B-report li {background:url(images/1.hongsanjiao.jpg) no-repeat left center;padding:0 10px 0 13px;}
+/*右侧*/
+.B-right{background:url(images/right-bg.jpg);width:310px;height:554px;float: right;}
+.B-right dt{padding-left: 20px;padding-top: 3PX;}
+.B-right .B-first{margin-top: 10px;}
+.B-right dd{font-size: 12px;line-height:2em;margin-left: 25px;}
+/*视频点播*/
+.B-audio{margin: 10px 0 5px 0;border:1px solid #ccc; width: 999px;}
+.B-audio h2{background:url(images/1.xiaohengtiao.jpg);height:30px;margin: 1px;}
+.B-audio h2 img{padding: 7px;}
+.B-audio p{float: left;padding: 15px 10px 0 10px;}
+.B-btn{margin: 90px 12px;}
+
+
